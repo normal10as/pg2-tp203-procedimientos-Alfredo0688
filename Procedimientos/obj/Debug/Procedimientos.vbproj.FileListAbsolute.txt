@@ -1,0 +1,22 @@
+G:\Programacion II 2018\guiaPractica2018\Procedimientos\bin\Debug\Procedimientos.exe.config
+G:\Programacion II 2018\guiaPractica2018\Procedimientos\bin\Debug\Procedimientos.exe
+G:\Programacion II 2018\guiaPractica2018\Procedimientos\bin\Debug\Procedimientos.pdb
+G:\Programacion II 2018\guiaPractica2018\Procedimientos\bin\Debug\Procedimientos.xml
+G:\Programacion II 2018\guiaPractica2018\Procedimientos\obj\Debug\Procedimientos.Resources.resources
+G:\Programacion II 2018\guiaPractica2018\Procedimientos\obj\Debug\Procedimientos.vbproj.GenerateResource.Cache
+G:\Programacion II 2018\guiaPractica2018\Procedimientos\obj\Debug\Procedimientos.exe
+G:\Programacion II 2018\guiaPractica2018\Procedimientos\obj\Debug\Procedimientos.xml
+G:\Programacion II 2018\guiaPractica2018\Procedimientos\obj\Debug\Procedimientos.pdb
+E:\Programacion II 2018\guiaPractica2018\Procedimientos\bin\Debug\Procedimientos.exe.config
+E:\Programacion II 2018\guiaPractica2018\Procedimientos\obj\Debug\Procedimientos.exe
+E:\Programacion II 2018\guiaPractica2018\Procedimientos\obj\Debug\Procedimientos.xml
+E:\Programacion II 2018\guiaPractica2018\Procedimientos\obj\Debug\Procedimientos.pdb
+E:\Programacion II 2018\guiaPractica2018\Procedimientos\bin\Debug\Procedimientos.exe
+E:\Programacion II 2018\guiaPractica2018\Procedimientos\bin\Debug\Procedimientos.pdb
+E:\Programacion II 2018\guiaPractica2018\Procedimientos\bin\Debug\Procedimientos.xml
+E:\Programacion II 2018\guiaPractica2018\Procedimientos\obj\Debug\Procedimientos.Resources.resources
+E:\Programacion II 2018\guiaPractica2018\Procedimientos\obj\Debug\Procedimientos.vbproj.GenerateResource.Cache
+C:\Users\Alfredio\Documents\Proyetos vb 2018\repositorio - procedimientos\Procedimientos\bin\Debug\Procedimientos.exe.config
+C:\Users\Alfredio\Documents\Proyetos vb 2018\repositorio - procedimientos\Procedimientos\obj\Debug\Procedimientos.exe
+C:\Users\Alfredio\Documents\Proyetos vb 2018\repositorio - procedimientos\Procedimientos\obj\Debug\Procedimientos.xml
+C:\Users\Alfredio\Documents\Proyetos vb 2018\repositorio - procedimientos\Procedimientos\obj\Debug\Procedimientos.pdb
